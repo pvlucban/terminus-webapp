@@ -3,3 +3,5 @@
 .vs/terminus-webapp/v16/.suo
 .vs/terminus-webapp/v16/Server/sqlite3/db.lock
 .vs/terminus-webapp/v16/Server/sqlite3/storage.ide
+/.vs/terminus-webapp/v16/Server/sqlite3
+/UI/obj
