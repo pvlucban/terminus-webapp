@@ -33,11 +33,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\terminus.shared.models\terminus.shared.models.csproj" />
+    <Folder Include="Migrations\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Migrations\" />
+    <ProjectReference Include="..\Shared\terminus.shared.models\terminus.shared.models.csproj" />
   </ItemGroup>
 
 </Project>
