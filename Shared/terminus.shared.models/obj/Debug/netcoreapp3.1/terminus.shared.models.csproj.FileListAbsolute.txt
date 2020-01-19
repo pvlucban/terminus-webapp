@@ -1,0 +1,8 @@
+C:\Users\paullucban\source\repos\terminus.shared.models\bin\Debug\netcoreapp3.1\terminus.shared.models.deps.json
+C:\Users\paullucban\source\repos\terminus.shared.models\bin\Debug\netcoreapp3.1\terminus.shared.models.dll
+C:\Users\paullucban\source\repos\terminus.shared.models\obj\Debug\netcoreapp3.1\terminus.shared.models.AssemblyInfoInputs.cache
+C:\Users\paullucban\source\repos\terminus.shared.models\obj\Debug\netcoreapp3.1\terminus.shared.models.AssemblyInfo.cs
+C:\Users\paullucban\source\repos\terminus.shared.models\bin\Debug\netcoreapp3.1\terminus.shared.models.pdb
+C:\Users\paullucban\source\repos\terminus.shared.models\obj\Debug\netcoreapp3.1\terminus.shared.models.dll
+C:\Users\paullucban\source\repos\terminus.shared.models\obj\Debug\netcoreapp3.1\terminus.shared.models.pdb
+C:\Users\paullucban\source\repos\terminus.shared.models\obj\Debug\netcoreapp3.1\terminus.shared.models.csprojAssemblyReference.cache
